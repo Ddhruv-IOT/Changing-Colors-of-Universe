@@ -16,9 +16,7 @@ It is an app made using OpenCV and Python.
 - Bandicam (for recording purposes).
 
 ## Demo Video: 
-will be added soon 
-<br/>
-[Click Here]()
+### [Watch on Youtube](https://youtu.be/Mt-3AQuCGlI)
 
 ## Story behind this app
 While learning to use different colorspaces on images in OpenCV, I double-clicked on the tab key to see all available options in the jupyter notebook. Then from those options, I randomly choose one of the options and it gave a very fancy look, so I tried the same with other options also, and then finally thought to make an app out of this.
